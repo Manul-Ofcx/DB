@@ -1,4 +1,7 @@
 {
 "URL":"https://mega.nz/file/CE0BnL6K#qnYM9J8gbSj3QOJK9_a1t6p6a59dFHvIfKRBaIOKQCk",
-"LOGO":"https://telegra.ph/file/ef48cc8d2d26081f7d46a.jpg"
+"LOGO":"https://telegra.ph/file/ef48cc8d2d26081f7d46a.jpg",
+"YTMP3":"https://apitest1-f7dcf17bd59b.herokuapp.com/download/ytmp3?url=",
+"YTMP4":"https://apitest1-f7dcf17bd59b.herokuapp.com/download/ytmp4?url="
+
 }
